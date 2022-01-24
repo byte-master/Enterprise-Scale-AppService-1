@@ -1,6 +1,6 @@
 AZURE_LOCATION: 'USGov Texas'
 RESOURCE_NAME_PREFIX: 'ase-demo'
-ENVIRONMENT_TAG: 'dev','johngal'
+ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'ase-demo-deployment'
 VM_USERNAME: 'agent'
 ACCOUNT_NAME: 'repalce me in repo secrets'
