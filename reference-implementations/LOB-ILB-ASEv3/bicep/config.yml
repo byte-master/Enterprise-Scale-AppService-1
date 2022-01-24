@@ -1,6 +1,6 @@
 AZURE_LOCATION: 'westus2'
 RESOURCE_NAME_PREFIX: 'ase-demo'
-ENVIRONMENT_TAG: 'dev'
+ENVIRONMENT_TAG: 'dev','johngal'
 DEPLOYMENT_NAME: 'ase-demo-deployment'
 VM_USERNAME: 'agent'
 ACCOUNT_NAME: 'repalce me in repo secrets'
