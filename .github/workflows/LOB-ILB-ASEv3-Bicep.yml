@@ -54,6 +54,8 @@ jobs:
       - uses: azure/login@v1
         with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
+          environment: 'AzureUSGovernment'
+          enable-AzPSSession: false
           
       - name: Run Preflight Validation
         working-directory: ./reference-implementations/LOB-ILB-ASEv3/bicep
