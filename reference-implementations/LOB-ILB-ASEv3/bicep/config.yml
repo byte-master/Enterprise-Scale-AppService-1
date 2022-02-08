@@ -1,4 +1,4 @@
-AZURE_LOCATION: 'USGov Texas'
+AZURE_LOCATION: 'usgovtexas'
 RESOURCE_NAME_PREFIX: 'aa-johngal01'
 ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'ase-demo-deployment'
