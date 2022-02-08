@@ -1,5 +1,5 @@
 AZURE_LOCATION: 'usgovtexas'
-RESOURCE_NAME_PREFIX: 'aa-johngal01'
+RESOURCE_NAME_PREFIX: 'aaxjo1'
 ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'ase-demo-deployment1'
 VM_USERNAME: 'agent'
