@@ -1,5 +1,5 @@
-AZURE_LOCATION: 'westus2'
-RESOURCE_NAME_PREFIX: 'aa-johngal62'
+AZURE_LOCATION: 'USGov Texas'
+RESOURCE_NAME_PREFIX: 'aa-johngal01'
 ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'ase-demo-deployment'
 VM_USERNAME: 'agent'
