@@ -64,9 +64,7 @@ module nic './vm-nic.bicep' = {
 resource vm 'Microsoft.Compute/virtualMachines@2021-04-01' = {
   name: vmName
   location: location
-  zones: [
-    '1'
-  ]
+
   properties: {
     hardwareProfile: {
       vmSize: vmSize
