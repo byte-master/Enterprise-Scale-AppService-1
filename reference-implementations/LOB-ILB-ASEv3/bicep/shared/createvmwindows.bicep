@@ -63,7 +63,6 @@ module nic './vm-nic.bicep' = {
 // Create the vm
 resource vm 'Microsoft.Compute/virtualMachines@2021-04-01' = {
   name: vmName
-  location: location
 
   properties: {
     hardwareProfile: {
